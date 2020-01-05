@@ -1,0 +1,8 @@
+body{
+    background-image: url('india.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    font-weight: bolder;
+}
